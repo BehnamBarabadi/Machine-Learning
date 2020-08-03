@@ -8,3 +8,4 @@ In this repository you can find different machine learning techniques
 - Ensemble, Bagging and Boosting
 - Pipeline, CrossValidation & GridSearch
 - Preprocessing with SKLearn
+- Fully Connected Networks with Keras
