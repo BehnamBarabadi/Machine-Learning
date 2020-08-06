@@ -9,3 +9,4 @@ In this repository you can find different machine learning techniques
 - Pipeline, CrossValidation & GridSearch
 - Preprocessing with SKLearn
 - Fully Connected Networks with Keras
+- Convolutional Networks with Keras
